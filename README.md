@@ -22,12 +22,12 @@
 
 | 역할 | 닉네임 | 링크 |
 | --- | --- | --- |
-| BE | 슈슈슝어피치 | https://github.com/phk9436 |
-| BE | 둠칫 | https://github.com/beetrbgus |
+| FE | 울루 | https://github.com/dusunax |
 | FE | 뚜뚜 | https://github.com/dduddu92 |
 | FE | 베아 | https://github.com/suu0321 |
 | FE | 수야 | https://github.com/trondi |
-| FE | 울루 | https://github.com/dusunax |
+| BE | 둠칫 | https://github.com/beetrbgus |
+| BE | 슈슈슝어피치 | https://github.com/phk9436 |
 
 
 ## 배포 링크
