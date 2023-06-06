@@ -35,15 +35,6 @@
 - (Closed) 배포 주소 : [https://nyangnyang-letter.me/](https://nyangnyang-letter.me/)
 - 시연 영상 : [유투브 주소 링크](https://www.youtube.com/watch?v=CaybAzvcRGo)
 
-## 냥냥편지 소개
-
-![냥냥편지](https://user-images.githubusercontent.com/94776135/208303113-08879e53-f8d1-4674-a557-8214ad83c8df.png)
-![냥냥편지-1](https://user-images.githubusercontent.com/94776135/208303145-8baeaaaf-aee2-4496-9f30-0bc02b2ce496.png)
-![냥냥편지-2](https://user-images.githubusercontent.com/94776135/208303148-a4116390-090d-4cd0-b1c1-6fbae4fef293.png)
-![냥냥편지-3](https://user-images.githubusercontent.com/94776135/208303156-dbcc0bf8-2f67-42dd-8822-c9c8c0b76903.png)
-![냥냥편지-4](https://user-images.githubusercontent.com/94776135/208303162-36171738-f95b-4b08-9912-ec8c0577d0cb.png)
-![냥냥편지-5](https://user-images.githubusercontent.com/94776135/208303163-d8fb6ef9-a621-4dc6-961b-477ebbc936e5.png)
-
 ## 사용 기술
 
 | 분류 | 내용 |
@@ -54,3 +45,14 @@
 ## FE
 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=Vite&logoColor=white"/></a> <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a> <img src="https://img.shields.io/badge/Axios-CB3837?style=flat-square&logo=npm&logoColor=white"/></a> <img src="https://img.shields.io/badge/Cloudflare Analytics-CB3837?style=flat-square&logo=npm&logoColor=white"/></a> <img src="https://img.shields.io/badge/Cloudflare Pages-CB3837?style=flat-square&logo=npm&logoColor=white"/></a>
+
+## 냥냥편지 소개
+
+![냥냥편지](https://user-images.githubusercontent.com/94776135/208303113-08879e53-f8d1-4674-a557-8214ad83c8df.png)
+![냥냥편지-1](https://user-images.githubusercontent.com/94776135/208303145-8baeaaaf-aee2-4496-9f30-0bc02b2ce496.png)
+![냥냥편지-2](https://user-images.githubusercontent.com/94776135/208303148-a4116390-090d-4cd0-b1c1-6fbae4fef293.png)
+![냥냥편지-3](https://user-images.githubusercontent.com/94776135/208303156-dbcc0bf8-2f67-42dd-8822-c9c8c0b76903.png)
+![냥냥편지-4](https://user-images.githubusercontent.com/94776135/208303162-36171738-f95b-4b08-9912-ec8c0577d0cb.png)
+![냥냥편지-5](https://user-images.githubusercontent.com/94776135/208303163-d8fb6ef9-a621-4dc6-961b-477ebbc936e5.png)
+
+
