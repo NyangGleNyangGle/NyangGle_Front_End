@@ -32,8 +32,8 @@
 
 ## 배포 링크
 
-- 배포 주소 : [https://nyangnyang-letter.me/](https://nyangnyang-letter.me/)
-- 시연 영상 : 유투브 주소 링크
+- (Closed) 배포 주소 : [https://nyangnyang-letter.me/](https://nyangnyang-letter.me/)
+- 시연 영상 : [유투브 주소 링크](https://www.youtube.com/watch?v=CaybAzvcRGo)
 
 ## 냥냥편지 소개
 
